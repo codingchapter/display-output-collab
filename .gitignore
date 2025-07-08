@@ -1,0 +1,9 @@
+**/*.iml
+**/.ccinfo/p
+**/.gradle/
+**/.idea/
+**/build/
+**/gradle/
+**/gradlew
+**/gradlew.bat
+preview/

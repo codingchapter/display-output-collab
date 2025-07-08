@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CcDevConfigState>
+  <readable-progress>false</readable-progress>
+  <show-solution-files>false</show-solution-files>
+  <show-description>false</show-description>
+  <direct-forward-navigation>true</direct-forward-navigation>
+  <download-code-in-leaf-dir>true</download-code-in-leaf-dir>
+  <show-delta-nodes>false</show-delta-nodes>
+</CcDevConfigState>
+
